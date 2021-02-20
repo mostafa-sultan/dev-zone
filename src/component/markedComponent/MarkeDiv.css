@@ -1,0 +1,15 @@
+#mark{
+/* border: solid rgb(189, 37, 100) 10px; */
+margin-top: 58px;
+text-align:start;
+height: 900px;
+margin-left: 7%;
+
+}
+#mark pre{
+        color: rgb(255, 255, 255);
+
+}
+pre{
+    background-color: rgb(15, 15, 14);
+}
